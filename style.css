@@ -1,0 +1,360 @@
+    body {
+        background: 
+        linear-gradient(
+            rgba(10, 29, 66, 0.75),
+            rgb(30, 30, 32)
+        ),
+        url("bluelock.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    .fotoB:hover {
+        transform: scale(1.05);
+        transition: 0.2s;
+    }
+
+    .fotoA:hover {
+        transform: scale(1.05);
+        transition: 0.2s;
+    }
+    
+    .fotoC:hover {
+        transform: scale(1.05);
+        transition: 0.2s;
+    }
+
+    .fotoD:hover {
+        transform: scale(1.05);
+        transition: 0.2s;
+    }
+
+    .fotoE:hover {
+        transform: scale(1.05);
+        transition: 0.2s;
+    }
+
+    .fotoEG:hover {
+        transform: scale(1.05);
+        transition: 0.2s;
+    }
+
+.fotoSub:hover {
+        transform: scale(1.05);
+        transition: 0.2s;
+    }
+
+img {
+    border: 3px solid rgb(6, 134, 219);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(5, 148, 231);
+    width: 15%;
+}
+.fotoA {
+     border: 3px solid rgb(13, 235, 198);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(8, 172, 163);
+    width: 15%;
+}
+
+.fotoE {
+     border: 3px solid rgb(228, 13, 228);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(190, 3, 236);
+    width: 15%;
+}
+
+.fotoC {
+     border: 3px solid rgb(1, 245, 152);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(3, 236, 42);
+    width: 15%;
+}
+
+.fotoD {
+     border: 3px solid rgb(230, 9, 9);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(250, 1, 1);
+    width: 15%;
+}
+
+.fotoEG {
+     border: 3px solid rgb(4, 99, 241);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(75, 4, 141);
+    width: 15%;
+}
+
+.fotoSub {
+     border: 3px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(250, 248, 249);
+    width: 15%;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+    background: linear-gradient(
+        90deg,
+        #0c55b4,
+        #3670bd,
+        #0c55b4
+    );
+
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+.navbar li {
+    width: 25%;
+    text-align: center;
+}
+
+.navbar li a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.navbar li a:hover {
+    background-color: #1786d1;
+    color: rgb(247, 250, 252);
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.3s;
+}s
+
+.p1 {
+    width: 50%;
+}
+
+h2 span,
+footer span {
+    color: #166ae9;
+}
+
+h3 {
+    width: 60%;
+    left: 15%;
+}
+
+.img1 {
+  position: relative;
+  left: 1250px;
+  top: 200px;
+  width: 30%;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(27, 142, 236);
+}
+
+.proj {
+    position: relative;
+  left: 50px;
+  top: -220px;
+}
+
+.proj1 {
+    position: relative;
+  left: 50px;
+  top: -220px;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+.proj2 {
+    position: relative;
+  left: 50px;
+  top: -220px;
+}
+
+.proj2- {
+    position: relative;
+  left: 50px;
+  top: -220px;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.fotoB {
+    position: relative;
+  left: 8px;
+  top: 0px;
+}
+
+.cap11 {
+     position: relative;
+  left: 5px;
+  top: 0px;
+}
+
+ .fotoA {
+    position: relative;
+  left: 8px;
+  top: 0px;
+ }
+
+ .fotoC {
+    position: relative;
+  left: 8px;
+  top: 0px;
+ }
+
+ .fotoD {
+    position: relative;
+  left: 8px;
+  top: 0px;
+ }
+
+ .fotoE {
+    position: relative;
+  left: 8px;
+  top: 0px;
+ }
+
+ .test1 {
+    position: relative;
+  left: 0px;
+  top: 0px;
+ }
+
+ .test12 {
+    position: relative;
+  left: -40px;
+  top: 0px;
+ }
+
+ .test13 {
+    position: relative;
+  left: -40px;
+  top: 0px;
+ }
+
+ .test14{
+    position: relative;
+  left: -40px;
+  top: 0px;
+ }
+
+ .test15{
+    position: relative;
+  left: -40px;
+  top: 0px;
+ }
+
+ .test16 {
+    position: relative;
+  left: -40px;
+  top: 0px;
+ }
+
+ .test17 {
+    position: relative;
+  left: -40px;
+  top: 0px;
+ }
+
+ .barourei:hover {
+    transform: scale(1.05);
+        transition: 0.2s;
+ }
+
+ .barourei {
+    position: relative;
+  left: 75px;
+  top: -1320px;
+   border: 3px solid rgb(5, 3, 3);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(255, 1, 1);
+    width: 15%;
+ }
+
+  .rinxsae:hover {
+    transform: scale(1.05);
+        transition: 0.2s;
+ }
+
+ .rinxsae {
+    position: relative;
+  left: 1230px;
+  top: -900px;
+   border: 3px solid rgb(2, 5, 3);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(5, 241, 103);
+    width: 15%;
+ }
+
+ .isago:hover {
+    transform: scale(1.05);
+        transition: 0.2s;
+ }
+
+.isago {
+    position: relative;
+  left: 650px;
+  top: -450px;
+   border: 3px solid rgb(2, 5, 3);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(5, 150, 247);
+    width: 15%;
+ } 
+
+ .kvz:hover {
+    transform: scale(1.05);
+        transition: 0.2s;
+ }
+
+ .kvz {
+    position: relative;
+  left: -75px;
+  top:  -238px;
+   border: 3px solid rgb(2, 5, 3);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(236, 4, 147);
+    width: 15%;
+ } 
+
+ .kvznd:hover {
+    transform: scale(1.05);
+        transition: 0.2s;
+ }
+
+ .kvznd {
+    position: relative;
+  left: 348px;
+  top:  -500px;
+   border: 3px solid rgb(2, 5, 3);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(4, 143, 236);
+    width: 15%;
+ } 
+
+ .img34:hover {
+    transform: scale(1.05);
+        transition: 0.2s;
+ }
+
+ .img34 {
+    position: relative;
+  left: 1250px;
+  top:  -1125px;
+   border: 3px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    box-shadow: 0 5px 15px rgb(27, 142, 236);
+    width: 30%;
+ } 
+
+ .img1:hover {
+    transform: scale(1.05);
+        transition: 0.2s;
+ }
